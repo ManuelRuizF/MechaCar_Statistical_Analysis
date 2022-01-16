@@ -9,4 +9,29 @@ For this project we made the following insights/ data summary:
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.  
 
 ## Linear Regression to Predict MPG  
-1[DEL1.1](
+![DEL1.1](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/Del1.PNG)  
+------------------------------------------------------  
+
+![Del1.2](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/Del1.1.PNG)  
+
+-----------------------------------------------------  
+
+## Summary Statistics on Suspension Coils
+
+![Del2](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/del2.PNG)  
+
+----------------------------------------------------  
+
+![Del2.2](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/del2.2.PNG)  
+
+-----------------------------------------------------  
+
+## T-Tests on Suspension Coils  
+![Del3](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/Del3.PNG)  
+-----------------------------------------------------  
+![Del3.1](https://github.com/ManuelRuizF/MechaCar_Statistical_Analysis/blob/main/resources/DEL3.2.PNG)  
+----------------------------------------------------  
+
+## Study Design: MechaCar vs Competition  
+
+
