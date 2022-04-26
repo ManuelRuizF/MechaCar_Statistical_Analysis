@@ -67,6 +67,10 @@ The data for the statistical test is described (5 pt)
 ### Metric  
 Current Price (Selling): Dependent Variable
 
+### Tools
+- R language
+- R Studio
+
 ### Hypothesis  
 Null Hypothesis: MechaCar is priced correctly based on its performance of key factors for its genre per year according to data.
 
