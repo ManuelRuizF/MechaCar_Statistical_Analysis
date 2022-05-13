@@ -9,7 +9,7 @@ For this project we made the following insights/ data summary:
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.  
 
 
-# DELIVERABLE 1
+# DELIVERABLE 
 
 ## Linear Regression to Predict MPG  
 
